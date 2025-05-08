@@ -1,5 +1,4 @@
-# Ignore Data folder
-Data/
 
-# Ignore Music-Genre-Classification-main folder
+Data/
 Music-Genre-Classification-main/
+data_10.json
